@@ -1,0 +1,5 @@
+{
+  "authToken": "secret",
+  "portRangeStart": 30000,
+  "portRangeEnd": 30010
+}
